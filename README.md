@@ -1,5 +1,4 @@
 <h1 align="center">Heylo 👋, I'm Nitin Ravi</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
